@@ -11,6 +11,7 @@ obj/
 x64/
 x86/
 _build/
+_release/
 
 # NuGet
 packages/
